@@ -1,5 +1,4 @@
-# Evercam — Construction Reality Capture & Intelligence
-
+# Evercam — Reality Driven Intelligence for Construction
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fevercam.io)](https://evercam.io) 
 
 ---
